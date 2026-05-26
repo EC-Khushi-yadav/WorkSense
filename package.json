@@ -1,0 +1,7 @@
+{
+  "name": "worksense",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd FRONTEND && npm install && npm run build"
+  }
+}

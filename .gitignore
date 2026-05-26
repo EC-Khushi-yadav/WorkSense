@@ -1,0 +1,20 @@
+# Environments
+.venv/
+.venv-1/
+.venv-2/
+.env
+
+# Node/Vite
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
